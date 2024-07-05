@@ -1,3 +1,4 @@
+This project was done by my and Aakrishi Tiwari while an internship at Powergrid Corporation Of India
 Reason for the development of a system for detecting moisture.
 
 Transformer humidity, stemming from factors like breathing mechanisms, ventilation openings, and environmental conditions, can harm insulation and overall performance. Sources include the transformer's breathing process, ventilation openings, and exposure to high humidity or extreme temperatures. Excess moisture may lead to issues like diminished dielectric strength and accelerated insulation aging. To safeguard transformers, consistent monitoring, maintenance, and the use of effective sealing materials are crucial for reliable, long-term operation.
